@@ -1,2 +1,2 @@
 # OPEN.github.io
-OPEN THIS SITE
+<h1>Hi im john</h1>
